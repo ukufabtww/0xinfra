@@ -1,0 +1,17 @@
+/* +---------------------------------------------------------------------------------------------------------------+ */
+wget https://raw.githubusercontent.com/ukufabtww/0xinfra/main/uclib-compilers/cross-compiler-armv4l.tar.bz2          // armv4l
+wget https://raw.githubusercontent.com/ukufabtww/0xinfra/main/uclib-compilers/cross-compiler-armv5l.tar.bz2          // armv5l
+wget https://raw.githubusercontent.com/ukufabtww/0xinfra/main/uclib-compilers/cross-compiler-armv6l.tar.bz2          // armv6l
+wget https://raw.githubusercontent.com/ukufabtww/0xinfra/main/uclib-compilers/cross-compiler-armv7l.tar.bz2          // armv7l
+wget https://raw.githubusercontent.com/ukufabtww/0xinfra/main/uclib-compilers/cross-compiler-i486.tar.gz             // i486
+wget https://raw.githubusercontent.com/ukufabtww/0xinfra/main/uclib-compilers/cross-compiler-i586.tar.bz2            // i586
+wget https://raw.githubusercontent.com/ukufabtww/0xinfra/main/uclib-compilers/cross-compiler-i686.tar.bz2            // i686
+wget https://raw.githubusercontent.com/ukufabtww/0xinfra/main/uclib-compilers/cross-compiler-m68k.tar.bz2            // m68k
+wget https://raw.githubusercontent.com/ukufabtww/0xinfra/main/uclib-compilers/cross-compiler-mips.tar.bz2            // mips
+wget https://raw.githubusercontent.com/ukufabtww/0xinfra/main/uclib-compilers/cross-compiler-mipsel.tar.bz2          // mipsel
+wget https://raw.githubusercontent.com/ukufabtww/0xinfra/main/uclib-compilers/cross-compiler-powerpc-440fp.tar.bz2   // powerpc-440fp
+wget https://raw.githubusercontent.com/ukufabtww/0xinfra/main/uclib-compilers/cross-compiler-powerpc.tar.bz2         // powerpc
+wget https://raw.githubusercontent.com/ukufabtww/0xinfra/main/uclib-compilers/cross-compiler-sh4.tar.bz2             // sh4
+wget https://raw.githubusercontent.com/ukufabtww/0xinfra/main/uclib-compilers/cross-compiler-sparc.tar.bz2           // sparc
+wget https://raw.githubusercontent.com/ukufabtww/0xinfra/main/uclib-compilers/cross-compiler-x86_64.tar.bz2          // x86_64
+/* +---------------------------------------------------------------------------------------------------------------+ */
